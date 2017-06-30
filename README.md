@@ -1,3 +1,17 @@
+Para configurar firebase abran el archivo /enviroments/environment.ts y modifiquen los datos que ahi les piden:
+
+  firebase: {
+  	apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "
+    "
+  }
+
+  
+
 # UploadFileFirebase
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
